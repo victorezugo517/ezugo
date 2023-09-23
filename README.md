@@ -1,2 +1,1 @@
-# ezugo
-just me
+avatarify-python
